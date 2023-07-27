@@ -235,9 +235,6 @@ git rebase -i HEAD^^^^^^
 git push origin [YOUR BRANCH] -f
 ```
 
-# Have a question?
-
-You can follow me on Twitter - [@mdamm_de](https://twitter.com/mdamm_de)
 
 # License
 
